@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27d646a654fc8694281a8a7edbb225fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerText: {instanceID: 0}
+  - winCanvas: {fileID: 1029111337407092586, guid: 45392cfd276ebd8a589485c60adff50e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
